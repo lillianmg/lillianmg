@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome 👋
+![lillianmg's GitHub Banner](https://raw.githubusercontent.com/lillianmg/lillianmg/main/banner.png)
 <!--
 **lillianmg/lillianmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
