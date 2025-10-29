@@ -1,4 +1,5 @@
-## Welcome 👋<img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/ae05e46d-293d-4213-87d3-9e4fa9597915" />
+## Welcome 👋<img width="2560" height="640" alt="banner" src="https://github.com/user-attachments/assets/488c7234-b5e6-4c70-881a-09111973d45d" />
+
 
 ![lillianmg's GitHub Banner](https://raw.githubusercontent.com/lillianmg/lillianmg/main/banner.png)
 <!--
