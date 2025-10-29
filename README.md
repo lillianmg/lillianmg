@@ -1,4 +1,5 @@
-## Welcome 👋
+## Welcome 👋<img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/ae05e46d-293d-4213-87d3-9e4fa9597915" />
+
 ![lillianmg's GitHub Banner](https://raw.githubusercontent.com/lillianmg/lillianmg/main/banner.png)
 <!--
 **lillianmg/lillianmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
