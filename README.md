@@ -15,14 +15,14 @@
 -  I love creating beautiful and functional web applications
 
 ## 💻 Technologies & Tools
-###Core languages
+### Core languages
 • JavaScript
 • TypeScript
 • Python
 • SQL
 • Swift
 
-###Front end
+### Front end
 • React
 • Next.js
 • HTML
@@ -30,14 +30,14 @@
 • Tailwind CSS
 • SwiftUI
 
-Back end
+### Back end
 • Node.js
 • Express
 • REST APIs
 • Firebase Cloud Functions
 • Authentication
 
-Data and analytics
+### Data and analytics
 • PostgreSQL
 • MySQL
 • MongoDB
@@ -47,14 +47,14 @@ Data and analytics
 • Dashboards
 • Data storytelling
 
-DevOps and tooling
+### DevOps and tooling
 • Git
 • GitHub
 • GitHub Actions
 • Docker
 • Linux basics
 
-Cloud and Platforms
+### Cloud and Platforms
 • Firebase
 • Auth
 • Hosting
@@ -63,31 +63,31 @@ Cloud and Platforms
 • Vercel
 • Netlify
 
-Testing and quality
+### Testing and quality
 • Jest
 • ESLint
 • Prettier
 
-Product and business tech
+### Product and business tech
 • Agile
 • Jira
 • Figma
 • Requirements analysis
 • Stakeholder communication
 
-E-commerce and SaaS Platforms
+### E-commerce and SaaS Platforms
 • Shopify
 • Theme customization
 • Liquid basics
 • App integrations
 • Storefront and admin APIs
 
-AI and automation
+### AI and automation
 • OpenAI APIs
 • Prompt engineering
 • Basic model evaluation
 
-Design and Creative Tools
+### Design and Creative Tools
 • Adobe Express
 • Social and marketing assets
 • Brand kits
@@ -98,7 +98,7 @@ Design and Creative Tools
 • Icons and logos
 • Layout fundamentals
 
-AI and Creative Automation
+### AI and Creative Automation
 From Adobe AI Creative Skills certification.
 
 • Adobe Firefly
