@@ -120,3 +120,7 @@ lilliangil@acm.org
 
 ---
 ⭐️ Feel free to check out my repositories!
+
+<img width="2560" height="640" alt="banner" src="https://github.com/user-attachments/assets/a285096c-b236-4f73-8da0-143db6b58326" />
+
+
