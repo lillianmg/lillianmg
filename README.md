@@ -5,7 +5,7 @@
      height="302"
      style="background:#0D1117">
 
-    <defs>
+ <defs>
         <!-- Glow -->
         <filter id="glow">
             <feGaussianBlur stdDeviation="4" result="blur"/>
