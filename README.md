@@ -15,14 +15,14 @@
 -  I love creating beautiful and functional web applications
 
 ## 💻 Technologies & Tools
-Core languages
+###Core languages
 • JavaScript
 • TypeScript
 • Python
 • SQL
 • Swift
 
-Front end
+###Front end
 • React
 • Next.js
 • HTML
