@@ -14,8 +14,7 @@
                 <feMergeNode in="SourceGraphic"/>
             </feMerge>
         </filter>
-
-        <!-- Stronger glow for meteors -->
+<!-- Stronger glow for meteors -->
         <filter id="meteorGlow">
             <feGaussianBlur stdDeviation="3" result="blur"/>
             <feMerge>
