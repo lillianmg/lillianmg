@@ -35,81 +35,76 @@
             <stop offset="50%" stop-color="#2f3b98"/>
             <stop offset="100%" stop-color="#4aa55d"/>
         </linearGradient>
-
-        <!-- Meteor trail gradients -->
+<!-- Meteor trail gradients -->
         
-        <linearGradient id="trail-1" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#61DAFB" stop-opacity="0"/>
             <stop offset="100%" stop-color="#61DAFB" stop-opacity="1"/>
         </linearGradient>
-
         <linearGradient id="trail-3" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#3178C6" stop-opacity="0"/>
             <stop offset="100%" stop-color="#3178C6" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442187108" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442187108" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#F7DF1E" stop-opacity="0"/>
             <stop offset="100%" stop-color="#F7DF1E" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442203909" x1="0%" y1="0%" x2="100%" y2="0%">
+  <linearGradient id="trail-1770442203909" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#339933" stop-opacity="0"/>
             <stop offset="100%" stop-color="#339933" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442213156" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442213156" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#3776AB" stop-opacity="0"/>
             <stop offset="100%" stop-color="#3776AB" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442216485" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442216485" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#DD0031" stop-opacity="0"/>
             <stop offset="100%" stop-color="#DD0031" stop-opacity="1"/>
         </linearGradient>
-
-        <linearGradient id="trail-1770442223406" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="trail-1770442223406" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
             <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442229675" x1="0%" y1="0%" x2="100%" y2="0%">
+ <linearGradient id="trail-1770442229675" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#007396" stop-opacity="0"/>
             <stop offset="100%" stop-color="#007396" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442233539" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442233539" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#F05138" stop-opacity="0"/>
             <stop offset="100%" stop-color="#F05138" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442237171" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442237171" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#E34F26" stop-opacity="0"/>
             <stop offset="100%" stop-color="#E34F26" stop-opacity="1"/>
         </linearGradient>
-
-        <linearGradient id="trail-1770442242397" x1="0%" y1="0%" x2="100%" y2="0%">
+                      
+<linearGradient id="trail-1770442242397" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#1572B6" stop-opacity="0"/>
             <stop offset="100%" stop-color="#1572B6" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442247004" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442247004" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#06B6D4" stop-opacity="0"/>
             <stop offset="100%" stop-color="#06B6D4" stop-opacity="1"/>
         </linearGradient>
 
-        <linearGradient id="trail-1770442249776" x1="0%" y1="0%" x2="100%" y2="0%">
+<linearGradient id="trail-1770442249776" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#444141" stop-opacity="0"/>
             <stop offset="100%" stop-color="#444141" stop-opacity="1"/>
         </linearGradient>
-
-        <!-- Circle clip for avatar -->
+<!-- Circle clip for avatar -->
         <clipPath id="avatarClip">
             <circle cx="720.5" cy="151" r="45"/>
         </clipPath>
     </defs>
-
-    <!-- Background waves -->
+<!-- Background waves -->
     <path d="M0 151 Q180 121 360 151 T721 151 T1081 151 T1441 151"
           fill="none"
           stroke="url(#waveGrad)"
@@ -123,10 +118,8 @@
              M0 151 Q180 181 360 151 T721 151 T1081 151 T1441 151;
              M0 151 Q180 121 360 151 T721 151 T1081 151 T1441 151"/>
     </path>
-
-    <!-- ========== METEOR LOGOS ========== -->
-    
-            <!-- logos:react Meteor -->
+<!-- ========== METEOR LOGOS ========== -->
+    <!-- logos:react Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="100" y1="-50" x2="112.94095225512604" y2="-1.7037086855465873" stroke="url(#trail-1)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="100;216.98620838633937" dur="10s" repeatCount="indefinite" begin="0s"/>
@@ -140,8 +133,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="0s"/>
             </g>
-
-            <!-- logos:typescript-icon Meteor -->
+ <!-- logos:typescript-icon Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="500" y1="-50" x2="512.940952255126" y2="-1.7037086855465873" stroke="url(#trail-3)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="500;616.9862083863394" dur="10s" repeatCount="indefinite" begin="6s"/>
@@ -155,8 +147,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="6s"/>
             </g>
-
-            <!-- logos:javascript Meteor -->
+<!-- logos:javascript Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="1049.7298520988597" y1="-50" x2="1062.670804353986" y2="-1.7037086855465873" stroke="url(#trail-1770442187108)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="1049.7298520988597;1166.716060485199" dur="10s" repeatCount="indefinite" begin="9.1s"/>
@@ -170,8 +161,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="9.1s"/>
             </g>
-
-            <!-- logos:nodejs-icon Meteor -->
+<!-- logos:nodejs-icon Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="674.3546307051622" y1="-50" x2="687.2955829602882" y2="-1.7037086855465873" stroke="url(#trail-1770442203909)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="674.3546307051622;791.3408390915016" dur="10s" repeatCount="indefinite" begin="4s"/>
@@ -185,8 +175,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="4s"/>
             </g>
-
-            <!-- logos:python Meteor -->
+<!-- logos:python Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="757.8784802999068" y1="-50" x2="770.8194325550328" y2="-1.7037086855465873" stroke="url(#trail-1770442213156)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="757.8784802999068;874.8646886862462" dur="10s" repeatCount="indefinite" begin="1.8s"/>
@@ -200,8 +189,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="1.8s"/>
             </g>
-
-            <!-- logos:angular-icon Meteor -->
+<!-- logos:angular-icon Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="230.2621332351216" y1="-50" x2="243.20308549024764" y2="-1.7037086855465873" stroke="url(#trail-1770442216485)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="230.2621332351216;347.248341621461" dur="10s" repeatCount="indefinite" begin="9.5s"/>
@@ -215,8 +203,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="9.5s"/>
             </g>
-
-            <!-- mdi:github Meteor -->
+ <!-- mdi:github Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="1164.535139659512" y1="-50" x2="1177.4760919146381" y2="-1.7037086855465873" stroke="url(#trail-1770442223406)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="1164.535139659512;1281.5213480458513" dur="10s" repeatCount="indefinite" begin="1.8s"/>
@@ -230,8 +217,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="1.8s"/>
             </g>
-
-            <!-- logos:java Meteor -->
+ <!-- logos:java Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="861.4627862832497" y1="-50" x2="874.4037385383757" y2="-1.7037086855465873" stroke="url(#trail-1770442229675)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="861.4627862832497;978.4489946695891" dur="10s" repeatCount="indefinite" begin="8.7s"/>
@@ -245,8 +231,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="8.7s"/>
             </g>
-
-            <!-- logos:swift Meteor -->
+<!-- logos:swift Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="590.452985896346" y1="-50" x2="603.3939381514721" y2="-1.7037086855465873" stroke="url(#trail-1770442233539)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="590.452985896346;707.4391942826854" dur="10s" repeatCount="indefinite" begin="8.2s"/>
@@ -260,8 +245,7 @@
                 </image>
                 <set attributeName="visibility" to="visible" begin="8.2s"/>
             </g>
-
-            <!-- logos:html-5 Meteor -->
+ <!-- logos:html-5 Meteor -->
             <g filter="url(#meteorGlow)" visibility="hidden">
                 <line x1="383.72126669545685" y1="-50" x2="396.6622189505829" y2="-1.7037086855465873" stroke="url(#trail-1770442237171)" stroke-width="2" stroke-linecap="round">
                     <animate attributeName="x1" values="383.72126669545685;500.70747508179625" dur="10s" repeatCount="indefinite" begin="3s"/>
