@@ -23,15 +23,13 @@
                 <feMergeNode in="SourceGraphic"/>
             </feMerge>
         </filter>
-
-        <!-- Gradient for waves -->
+ <!-- Gradient for waves -->
         <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#0ae5f5"/>
             <stop offset="50%" stop-color="#093671"/>
             <stop offset="100%" stop-color="#19946b"/>
         </linearGradient>
-
-        <!-- Gradient for glowing circle -->
+   <!-- Gradient for glowing circle -->
         <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#46e1ec"/>
             <stop offset="50%" stop-color="#2f3b98"/>
