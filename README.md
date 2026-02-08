@@ -27,7 +27,7 @@
 • Next.js
 • HTML
 • CSS
-• Tailwind CSS
+• Tailwind
 • SwiftUI
 
 ### Back end
@@ -50,9 +50,7 @@
 ### DevOps and tooling
 • Git
 • GitHub
-• GitHub Actions
 • Docker
-• Linux basics
 
 ### Cloud and Platforms
 • Firebase
