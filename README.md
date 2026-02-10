@@ -17,6 +17,7 @@
 ## 💻 Technologies & Tools
 ### Core languages
 • JavaScript
+• Java
 • TypeScript
 • Python
 • SQL
@@ -38,8 +39,7 @@
 • Authentication
 
 ### Data and analytics
-• PostgreSQL
-• MySQL
+• SQL
 • MongoDB
 • Pandas
 • NumPy
@@ -64,7 +64,6 @@
 ### Testing and quality
 • Jest
 • ESLint
-• Prettier
 
 ### Product and business tech
 • Agile
