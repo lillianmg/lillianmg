@@ -33,7 +33,7 @@
 ### Back end
 • Node.js
 • Express
-• REST APIs
+• Spring Boot 
 • Firebase Cloud Functions
 • Authentication
 
