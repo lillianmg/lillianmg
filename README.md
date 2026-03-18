@@ -10,7 +10,7 @@
 # Hello 👋, I'm Lillian
 ### Full Stack Developer
 
-I'm a Computer Science student with a Data Analytics concentration
+I'm a Computer Science student with a Data Analytics concentration, interested in Fintech
 
 ## Skills
 
@@ -32,21 +32,11 @@ I'm a Computer Science student with a Data Analytics concentration
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=lillianmg&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianmg&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lillianmg&theme=tokyonight" alt="GitHub Streak" />
 
 
 ## 💻 Technologies & Tools
