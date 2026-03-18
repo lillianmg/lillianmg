@@ -12,6 +12,8 @@
 
 I'm a Computer Science student with a Data Analytics concentration, interested in Fintech
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lillianmg&theme=tokyonight" alt="GitHub Streak" />
+
 ## Skills
 
 <p align="left">
@@ -152,5 +154,4 @@ From Adobe AI Creative Skills certification.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianmg&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lillianmg&theme=tokyonight" alt="GitHub Streak" />
 
