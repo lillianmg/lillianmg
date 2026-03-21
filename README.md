@@ -150,8 +150,6 @@ From Adobe AI Creative Skills certification.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lillianmg&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianmg&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
 
