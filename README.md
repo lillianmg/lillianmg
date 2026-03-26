@@ -144,12 +144,10 @@ From Adobe AI Creative Skills certification.
 - Website: https://www.lilliangil.com
 - LinkedIn: https://www.linkedin.com/in/lilliangil
 - Tech events: Say hi to me if we are going to the same conferences or networking events! I was just at #CES2026Vegas, so if you think you saw  me, yes, that was me :P
-  
 ---
-⭐️ Feel free to check out my repositories!
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianmg&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
+---
+⭐️ Feel free to check out my repositories!
 
