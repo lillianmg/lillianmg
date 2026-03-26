@@ -148,7 +148,7 @@ From Adobe AI Creative Skills certification.
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianmg&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
----
+
 
 ⭐️ Feel free to check out my repositories!
 
