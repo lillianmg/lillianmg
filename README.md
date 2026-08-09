@@ -139,11 +139,9 @@ From Adobe AI Creative Skills certification.
 • Consistent branding across formats
 
 ## 📫 How to reach me
-- Email: lilliangil@acm.org
 - Website: https://www.lilliangil.com
 - LinkedIn: https://www.linkedin.com/in/lilliangil
-- Tech events: Say hi to me if we are going to the same conferences or networking events! I was just at #CES2026Vegas and #PTW2026, so if you think you saw  me, yes, that was me :P
----
+- Tech events
 
 ⭐️ Feel free to check out my repositories!
 
